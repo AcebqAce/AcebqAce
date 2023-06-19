@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AcebqAce and I have dreams.
 - 👀 I’m interested in everything that happened in this universe.
-- 🌱 I’m currently learning how to become a programmer.
+- 🌱 I’m currently learning how to be a good programmer.
 
 
 <!---
